@@ -1,0 +1,48 @@
+page-modal {
+
+}
+#login{
+    margin-top: 5%;
+    text-align: center;
+    width:auto;
+    
+}
+#input
+{
+    background-color: rgba(0,0,0,0);
+    width:85%;
+    margin-bottom: 5%;
+    border-color: rgba(255,255,255,.02);
+    border-bottom-color:rgba(255,255,255,.3);
+    padding: 1.5%;
+    color: white;
+    border-width: 0.00001;
+    text-align:center;
+   
+}
+input::placeholder
+{
+    color:rgba(255,255,254,0.3);
+}
+
+#inputS1
+{
+     background-color: rgba(0,0,0,.5);
+    width:45%;
+    margin-top: 5%;
+    margin-right: 2%;
+    border-color: rgba(0,0,0,0);
+    border-bottom-color:cyan;
+    padding: 1%;
+   color: antiquewhite;  
+}
+#segment
+{color:white;
+    opacity:1;
+}
+ion-toolbar
+{
+    opacity:.3;
+}
+
+
